@@ -1,4 +1,0 @@
-# chatbuddy
-openai
-streamlit
-
